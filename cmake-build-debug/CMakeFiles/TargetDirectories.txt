@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Filtru_median/cmake-build-debug/CMakeFiles/Filtru_median.dir
+C:/Users/user/CLionProjects/Filtru_median/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Filtru_median/cmake-build-debug/CMakeFiles/rebuild_cache.dir
