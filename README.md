@@ -6,3 +6,5 @@
 
 ### Image after applying median filter to it
 ![test_out](https://github.com/CesarLeoni/Median_filter/assets/109579770/7c97294e-03a7-436b-a7ed-5758477cc874)
+
+### Within the cmake-build-debug folder the previous images can be found in .pgm format, with the names "image.pgm" and "test_out.pgm" in order. 
